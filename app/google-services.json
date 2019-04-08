@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "538922888424",
+    "firebase_url": "https://mp8pabloromo.firebaseio.com",
+    "project_id": "mp8pabloromo",
+    "storage_bucket": "mp8pabloromo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538922888424:android:9c3cf80f5cd40415",
+        "android_client_info": {
+          "package_name": "com.example.mp8_pablo_romo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538922888424-o954ngqdsh4e8gb0rj09vodvrj4v9ggv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mp8_pablo_romo",
+            "certificate_hash": "8d7cc07a21d47e70d815095990061ae823700a16"
+          }
+        },
+        {
+          "client_id": "538922888424-16nam23uj9vitrpjpa3cpunte2fjpsrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJfgxQNva85ynOgRDD4wXQ2IOWHHa7PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538922888424-16nam23uj9vitrpjpa3cpunte2fjpsrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
